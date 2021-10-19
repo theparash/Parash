@@ -10,5 +10,7 @@ Contacts
 
 You can contact me on
 [Facebook](https://www.facebook.com/parash.me)
+
 [Instagram](https://www.instagram.com/parash.me)
-[Email](parashphuyal809@gmail.com)
+
+Email: parashphuyal809@gmail.com
